@@ -1,0 +1,6 @@
+C:\Users\sivab\source\repos\CrimeReportingSystem\CrimeReportingSystem.Tests\bin\Debug\net6.0\.msCoverageSourceRootsMapping_CrimeReportingSystem.Tests
+C:\Users\sivab\source\repos\CrimeReportingSystem\CrimeReportingSystem.Tests\obj\Debug\net6.0\CrimeReportingSystem.Tests.csproj.AssemblyReference.cache
+C:\Users\sivab\source\repos\CrimeReportingSystem\CrimeReportingSystem.Tests\obj\Debug\net6.0\CrimeReportingSystem.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivab\source\repos\CrimeReportingSystem\CrimeReportingSystem.Tests\obj\Debug\net6.0\CrimeReportingSystem.Tests.AssemblyInfoInputs.cache
+C:\Users\sivab\source\repos\CrimeReportingSystem\CrimeReportingSystem.Tests\obj\Debug\net6.0\CrimeReportingSystem.Tests.AssemblyInfo.cs
+C:\Users\sivab\source\repos\CrimeReportingSystem\CrimeReportingSystem.Tests\obj\Debug\net6.0\CrimeReportingSystem.Tests.csproj.CoreCompileInputs.cache
